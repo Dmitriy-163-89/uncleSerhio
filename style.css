@@ -1,0 +1,62 @@
+body {
+   background-image: url('carPainterЧБ.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+  background-size: cover;
+  
+  
+ }
+
+ a{
+   border: 1px solid #0fa;
+   border-radius: 10px ;
+ } 
+
+ .foot {
+   color: #0fa;
+  
+   bottom: 0; 
+   position: fixed;
+   background-color: #212529;
+   height: 40px;
+   padding-top: 10px;
+   font-family: "myFont";
+   font-size: 20px;
+   font: bold;
+   
+ }
+    
+  
+  
+
+.navbar-brand {
+
+   color: #0fa;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa; 
+        
+
+
+        font-family: "myFont";   
+}
+
+.navbar-toggler {
+
+   background-color: rgb(111, 221, 185);
+}
+
+
+
+ @font-face {
+        font-family: "myFont";
+        src: url("Dihjauti-Italic.otf");
+ }
+
+
