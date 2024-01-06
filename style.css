@@ -18,7 +18,7 @@ body {
    bottom: 0; 
    position: fixed;
    background-color: #212529;
-   height: 40px;
+   height: auto;
    padding-top: 10px;
    font-family: "myFont";
    font-size: 20px;
